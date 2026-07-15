@@ -1,15 +1,15 @@
-# C Sandbox
-A collection of my experiments and projects as I learn the C programming language.
+## C projects
+a collection of stuff i thought was worth sharing publicly.
 
-## Projects
-- **Digit Calculator**: Determines the number of digits in an integer.
-- **Table Squares**: Prints numbers and their squares in a formatted table.
-- **Vending Machine**: A simple menu-driven system using switch statements.
-- **Odd/Even Evaluator**: Uses modulo logic to check parity.
+### projects
+- 2d-grid
+control a movable object on a 5x5 grid 
 
-## How to Compile
-You need a C compiler (like `gcc`). To compile a specific file:
-`gcc filename.c -o filename`
+- calculator
+input 2 numbers, input type of arithmetic type
 
-Then run it:
-`./filename`
+- mandelbrot
+terminal based mandelbrot set shown via ascii
+
+- odd-even
+constant reprompt. whether your inputted number is odd or even.

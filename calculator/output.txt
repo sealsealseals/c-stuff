@@ -1,0 +1,13 @@
+Enter number 1: 72
+
+Inputted: 72.000, 0.000
+Enter number 2: 40
+
+Inputted: 72.000, 40.000
+Select an arithmetic operator: 
++
+-
+*
+/
+Selection: *
+Result: 2880.000

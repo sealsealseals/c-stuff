@@ -1,0 +1,29 @@
+Enter drink choice: 
+ 1: Water
+ 2: Latte
+ 3: Cappucino
+ 4: Espresso
+ 5: Milk
+> 1
+< WATER SELECTED >
+
+
+Enter drink choice: 
+ 1: Water
+ 2: Latte
+ 3: Cappucino
+ 4: Espresso
+ 5: Milk
+> 2
+< LATTE SELECTED >
+
+
+
+Enter drink choice: 
+ 1: Water
+ 2: Latte
+ 3: Cappucino
+ 4: Espresso
+ 5: Milk
+> 6
+Invalid Input

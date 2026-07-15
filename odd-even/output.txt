@@ -1,0 +1,15 @@
+Input a number for odd/even evaluation: 
+0
+0 is even.
+Input a number for odd/even evaluation: 
+24
+24 is even.
+Input a number for odd/even evaluation: 
+13
+13 is odd.
+Input a number for odd/even evaluation: 
+1293
+1293 is odd.
+Input a number for odd/even evaluation: 
+5
+5 is odd.

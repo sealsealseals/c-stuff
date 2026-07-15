@@ -31,6 +31,7 @@ int main (void)
     }
 
     
+
     printf("Result: %.3f", result);
 
 return 0;
