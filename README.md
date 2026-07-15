@@ -6,7 +6,7 @@ a collection of stuff i thought was worth sharing publicly.
 
 - **calculator** <br>input 2 numbers, input type of arithmetic type - [output](calculator/output.txt)
 
-- **mandelbrot** <br>terminal based mandelbrot set shown via ascii - [![mandelbrot output](mandelbrot/mandelbrot.png)
+- **mandelbrot** <br>terminal based mandelbrot set shown via ascii - [![mandelbrot output](mandelbrot/mandelbrot.png)](mandelbrot.png)
 
 - **odd-even** <br>constant reprompt. whether your inputted number is odd or even. - [output](odd-even/output.txt)
 
