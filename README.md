@@ -2,17 +2,16 @@
 a collection of stuff i thought was worth sharing publicly.
 
 ### projects
-- **2d-grid**
-  control a movable object on a 5x5 grid 
+- **2d-grid** <br>control a movable object on a 5x5 grid 
 
-- **calculator**
-  input 2 numbers, input type of arithmetic type
+- **calculator** <br>input 2 numbers, input type of arithmetic type
 
-- **mandelbrot**
-  terminal based mandelbrot set shown via ascii
+- **mandelbrot** <br>terminal based mandelbrot set shown via ascii - [output](mandelbrot.png)
 
-- **odd-even**
-  constant reprompt. whether your inputted number is odd or even.
+- **odd-even** <br>constant reprompt. whether your inputted number is odd or even.
 
-- **vending-machine**
-  input a numbered selection prompt for an output
+- **vending-machine** <br>input a numbered selection prompt for an output\
+
+---
+
+### updating this repo isnt a priority of mine
